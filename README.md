@@ -1,5 +1,7 @@
 # Ex03 Time Table
-## Date:
+## Date:16-04-2025
+## Name:ARUL KUMARAN S A
+## Register No:212224040030
 
 ## AIM
 To write a html webpage page to display your slot timetable.
