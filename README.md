@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:16-04-2025
+## Date:24-04-25
 ## Name:ARUL KUMARAN S A
 ## Register No:212224040030
 
@@ -26,7 +26,8 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-~~~
+```
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -64,7 +65,7 @@ Execute the program using runserver command.
                 <td>DIGITAL ELECTRONICS</td>
                 <td>FUNDAMENTALS OF WEB APPLICATION</td>
                 <td>PRINCIPLES OF CHEMISTRY IN ENGINEEERING</td>
-                <td>HUMAN VALUES AND PROFESSIONAL ETHICS</td>
+                <td>HUMAN VALUES</td>
             </tr>
             <tr align="center">
                 <th bgcolor="yellow">12-1</th>
@@ -134,15 +135,15 @@ Execute the program using runserver command.
             <tr>
                 <td align="center">8.</td>
                 <td align="center">19HS801</td>
-                <td>HUMAN VALUES AND PROFESSIONAL ETHICS</td>
+                <td>HUMAN VALUES</td>
             </tr>
         </table>
     </body>
 </html>
-~~~
+
+```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-04-16 225701-1.png>)
-
+![alt text](<Screenshot (5).png>)
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
